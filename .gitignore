@@ -1,0 +1,19 @@
+# Python / Backend
+backend/.venv/
+backend/__pycache__/
+*.pyc
+
+# Node / Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# OS generated files
+.DS_Store
+Thumbs.db
